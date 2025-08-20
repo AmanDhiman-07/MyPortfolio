@@ -6,7 +6,7 @@ It showcases my **skills, projects, and contact information** in a clean and res
 ---
 
 ## 🌐 Live Demo  
-🔗 [View Portfolio](https://your-username.github.io/your-repo-name/)  
+🔗 [View Portfolio](https://amandhiman-07.github.io/MyPortfolio/)  
 
 ---
 
@@ -40,20 +40,9 @@ It showcases my **skills, projects, and contact information** in a clean and res
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML5, CSS3, JavaScript, React.js  
-- **Styling:** Tailwind CSS, Bootstrap, Material UI  
-- **Backend:** Node.js, Express.js, MongoDB, MySQL  
-- **Version Control:** Git, GitHub  
-
----
-
-## 📷 Screenshots  
-
-### Home Section  
-![Home Screenshot](images/image-man-modified.png)  
-
-### Projects Section  
-![Projects Screenshot](images/Two_Good_Co.png)  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Styling:**  Bootstrap, Material UI
+- **Version Control:** Git, GitHub   
 
 ---
 
